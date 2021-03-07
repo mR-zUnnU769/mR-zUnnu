@@ -22,29 +22,27 @@ $ pkg install pip
 $ pkg install pip2
 $ pip2 install requests
 $ pip2 install mechanize
-$ git clone https://github.com/botolvau/bcloner
+$ git clone https://github.com/mR-zUnnU769/mR-zUnnu/cfb
 ```
 
-## Tools Run :
+## Tools Run 
 ```
-$ ls && cd bcloner && ls
-$ python2 bcloner.py
+$ cd cfb
+$ python2 cfb.py
 ```
 
-* Tools Username / Passwords : https://www.facebook.com/groups/231747098048450/permalink/275501883672971/
+* Tools Username / Zunair
+* Tools Password / Zunnu
 
 
 ## ***Follow Me***
 
-* Youtube : [Subscribe Now](https://www.youtube.com/MasterTrick1)
-* Website : [Visit Now](http://www.mastertrick.design)
-* Page : [Follow Us](https://www.facebook.com/TeamVVirus)
-* Group : [Join Us](https://www.facebook.com/groups/231747098048450)
-* Telegram : [Join Now](https://t.me/mastertrick2)
-* Instagram : [Follow Me](https://www.instagram.com/MehtanOfficial)
-* Twitter : [Follow Me](https://www.twitter.com/botolbaba)
-* GitHub : [Follow Me](https://www.github.com/Botolvau)
-
+* Youtube : [Subscribe Now](https://www.youtube.com/zunnutricks)
+* Page : [Follow Us](https://www.facebook.com/zunnutricks)
+* Instagram : [Follow Me](https://www.instagram.com/47_Memer)
+* Twitter : [Follow Me](https://www.twitter.com/ZunairRajput)
+* GitHub : [Follow Me](https://www.github.com/mR-zUnnU769/mr-zUnnu)
+* Whatsapp:[Contact Us] (0320794****)
 ### Warning
 
 ***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
